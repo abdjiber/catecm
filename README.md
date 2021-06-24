@@ -1,4 +1,4 @@
-# catecm
+# About
 This repository will contain the implementation of the categorical evidential c-means algorithm (cat-ECM).
 
 # References
